@@ -35,7 +35,7 @@ To replicate this lab environment:
 
 ## Screenshots (Optional but Recommended)
 ![Apache "It works!" page](https://raw.githubusercontent.com/cdm-projects/Linux-Server-Fundamentals/main/images/apache_it_works.PNG)
-* [Link to screenshot of successful SSH login using key]
+![Successful SSH Login](https://raw.githubusercontent.com/cdm-projects/Linux-Server-Fundamentals/main/images/ssh_login.PNG)
 * [Link to screenshot of UFW status showing allowed rules]
 
 ---
