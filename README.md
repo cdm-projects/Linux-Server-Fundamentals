@@ -33,7 +33,7 @@ To replicate this lab environment:
 6.  Follow steps to configure static IP, install Apache2, set up UFW, and implement SSH key-based authentication.
 
 ## Screenshots (Optional but Recommended)
-![Apache "It works!" page](https://raw.githubusercontent.com/cdm-projects/linux-server-fundamentals-lab/main/images/apache_it_works.PNG)
+![Apache "It works!" page](https://raw.githubusercontent.com/cdm-projects/Linux-Server-Fundamentals/main/images/apache_it_works.PNG)
 * [Link to screenshot of successful SSH login using key]
 * [Link to screenshot of UFW status showing allowed rules]
 
